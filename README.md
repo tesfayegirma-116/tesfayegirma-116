@@ -13,11 +13,13 @@ I'm a Software Engineer and Team Leader with a passion for creating efficient an
 
 ## API Expertise & Architecture Style
 
-**API Style:** REST API  
-**Architecture Style:** Monolithic Architecture
+**API Style**:
+- REST API
+- GraphQL
 
-**API Style:** GraphQL  
-**Architecture Style:** Microservices Architecture
+**Architecture Style**:
+- Monolithic Architecture
+- Microservices Architecture
 
 Feel free to reach out to me for collaborations, projects, or just to say hi!
 
