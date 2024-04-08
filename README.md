@@ -13,7 +13,7 @@ I'm a Software Engineer and Team Leader with a passion for creating efficient an
 
 ## API Expertise & Architecture Style
 
-<div style="display:flex; flex-direction: row;">
+<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         **API Style**:
         - REST API
