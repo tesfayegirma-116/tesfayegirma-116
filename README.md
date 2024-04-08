@@ -1,4 +1,4 @@
-                                                # Hi, I'm Tesfaye Girma 👋
+                                                #Hi, I'm Tesfaye Girma 👋
 
 I'm a Software Engineer and Team Leader with a passion for creating efficient and scalable solutions. My expertise spans across various programming languages, databases, frameworks, and tools, enabling me to tackle complex problems and deliver high-quality software.
 
