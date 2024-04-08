@@ -11,14 +11,10 @@ I'm a Software Engineer and Team Leader with a passion for creating efficient an
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | | | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-
-## API Expertise & Architecture Style
-
-| API Style | Architecture Style |
-| --- | --- |
-| REST API | Monolithic Architecture |
-| GraphQL | Microservices Architecture |
-
+## API Expertise                    | Architecture Style
+---------------------------------- | --------------------
+REST API                          | Monolithic Architecture
+GraphQL                           | Microservices Architecture
 
 Feel free to reach out to me for collaborations, projects, or just to say hi!
 
